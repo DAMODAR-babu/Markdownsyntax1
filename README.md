@@ -1,2 +1,2 @@
 # Markdownsyntax1
-to use markdown synta
+to use markdown syntax
